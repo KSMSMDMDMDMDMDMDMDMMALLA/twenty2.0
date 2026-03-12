@@ -1,0 +1,13 @@
+{
+  "name": "telegram-moderation-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot with subscription check, moderation, autopost and admin panel",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
